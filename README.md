@@ -108,6 +108,10 @@ which method, in which scenario has broken and what would be the expected behavi
   where can be a certain issue. e.g. `MethodName_StateUnderTest_ExpectedBehavior`
 
 
+## Starting your project
+
+
+
 ## Background materials
 
 - <i class="far fa-exclamation"></i> [Software testing](project/curriculum/materials/pages/general/software-testing.md)
